@@ -24,7 +24,7 @@ utilizado, etc.), um desenvolvimento das análises realizadas (modelos propostos
 e desvantagens, comparação de desempenho, visualizações) e uma exposição de os
 principais Resultados e conclusões.
 
-Fecha da entrega:
+Ficha da entrega:
 
 O material deverá ser entregue na aula 34 do curso.
 
