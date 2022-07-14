@@ -1,4 +1,4 @@
-# Workshop-3-DS-Digital-House
+# Workshop 3
 :construction: Trabalho prático 3 - Data Science - Digital House Coding School
 
 Objetivos:
